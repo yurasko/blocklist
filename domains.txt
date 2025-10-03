@@ -50883,3 +50883,6 @@ zanos.vodka
 forum.online
 bookovka.ua
 md.sputniknews.com
+mikle.livejournal.com
+sevkor.ru
+golos-naroda.tv
