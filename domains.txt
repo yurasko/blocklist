@@ -51739,7 +51739,6 @@ mrpl.news
 mariupol-news.ru
 uanews.net 
 ukr.live
-znaj.ua
 auto-document.com.ua 
 permisdeconduceres.com
 doctopcar.online
@@ -51748,7 +51747,6 @@ perevirka-avto.online
 xn--80aaebiwakef5bihomko5omhe.com
 doctopcar.online
 vhtoys.store 
-rozvytok-avto.com
 doctopcar.online 
 master-prav.online
 drivelicense.adsquiz.io
@@ -51762,7 +51760,6 @@ myglobaldocument.com
 permisdeconduceres.com
 driverdooc.online 
 maschinka-prav.online
-ucavtoshkola.com.ua
 startdrive.org 
 xn-80aaebiwakef5bihomko5omhe.com
 auto-documenti.com.ua
@@ -52131,3 +52128,7 @@ smokeopt.org.ua
 smokeua.store
 gagauznews.com
 aufstand-fuer-frieden.de
+nabu-gov.com
+nabu-gov.org
+jungewelt.de
+wastok.de
