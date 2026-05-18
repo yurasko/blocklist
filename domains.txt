@@ -53299,9 +53299,6 @@ goxbett-ua.com
 allwin.allsport24.com.ua
 online-apteka.com.ua
 anri-pharm.com
-apteka-ds.com.ua
-etabletka.ua
-totispharma.com
 likargood.com.ua
 vsetutpl.com
 apteka-plus.com.ua
@@ -53886,3 +53883,5 @@ amado.com.ua
 1wnaej.com
 fav365ua.biz.ua
 stina.in.ua
+hotimsk.by
+smartpress.by
