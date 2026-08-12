@@ -55803,7 +55803,6 @@ alc-mag.online
 alcoprodukt.site
 alco-market.life
 alcobar.org
-cig-poshta.in.ua
 smokeshops.com.ua
 smokers.com.ua
 los-tobacco.com.ua
@@ -59694,4 +59693,3 @@ medbook.org.ua
 med24.click
 spravochki.org
 gur-official.com.ua
-cig-poshta.in.ua
