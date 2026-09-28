@@ -69897,3 +69897,5 @@ pshenicka.shop
 budun.store 
 promalco.shop
 nvukraine.com
+kadastr.com.ua
+kadastrova-karta.com.ua
