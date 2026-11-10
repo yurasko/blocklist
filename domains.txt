@@ -42577,7 +42577,6 @@ pm-web.cc
 pm-win.com
 pm.by
 pm.io
-pm.ua
 pmc-slots.com
 pmcasino.com
 pmcasinowin.com
@@ -42665,7 +42664,6 @@ pokerfuse.com
 pokerist.com
 pokeristby.ru
 pokermatch.com
-pokermatch.ua
 pokermatch.win
 pokermatch6.com
 pokermatchvip.com
@@ -48544,7 +48542,6 @@ c1k.world
 de.sott.net
 qpress.de
 roadcontrol.org
-pin-up.ua
 pin-upbct-ua.com
 pin-up794.com
 turbo.ua
